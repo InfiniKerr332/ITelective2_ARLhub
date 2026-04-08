@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40">
+  <!-- Red rounded square background -->
+  <rect width="40" height="40" rx="9" fill="#B81C2E"/>
+  <!-- Open book icon (white) -->
+  <g transform="translate(7, 9)">
+    <!-- Left page -->
+    <path d="M13 3.5 C10 2 6 2 3 3 L3 18 C6 17 10 17 13 18.5 Z" fill="white" opacity="0.95"/>
+    <!-- Right page -->
+    <path d="M13 3.5 C16 2 20 2 23 3 L23 18 C20 17 16 17 13 18.5 Z" fill="white"/>
+    <!-- Spine line -->
+    <line x1="13" y1="3.5" x2="13" y2="18.5" stroke="#B81C2E" stroke-width="1.5"/>
+  </g>
+</svg>
